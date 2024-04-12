@@ -1,6 +1,5 @@
 # импорт используемых библиотек
 
-import keyboard01
 import telebot
 import requests
 import bs4
