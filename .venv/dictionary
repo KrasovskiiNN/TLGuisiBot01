@@ -1,0 +1,36 @@
+zodiac_list_latin_russian = {
+    'aries': 'Овен',
+    'taurus': 'Телец',
+    'gemini': 'Близнецы',
+    'cancer': 'Рак',
+    'leo': 'Лев',
+    'virgo': 'Дева',
+    'libra': 'Весы',
+    'scorpio': 'Скорпион',
+    'sagittarius': 'Стрелец',
+    'capricorn': 'Козерог',
+    'aquarius': 'Водолей',
+    'pisces': 'Рыбы'
+    }
+
+zodiac_list_russian_latin = {
+    'Овен': 'aries',
+    'Телец': 'taurus',
+    'Близнецы': 'gemini',
+    'Рак': 'cancer',
+    'Лев': 'leo',
+    'Дева': 'virgo',
+    'Весы': 'libra',
+    'Скорпион': 'scorpio',
+    'Стрелец': 'sagittarius',
+    'Козерог': 'capricorn',
+    'Водолей': 'aquarius',
+    'Рыбы': 'pisces'
+    }
+
+
+zodiac_sign_latin = ''
+
+print(zodiac_list_latin_russian['aries'])
+
+print(zodiac_list_russian_latin['Стрелец'])
