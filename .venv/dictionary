@@ -1,3 +1,4 @@
+'''
 zodiac_list_latin_russian = {
     'aries': 'Овен',
     'taurus': 'Телец',
@@ -28,18 +29,20 @@ zodiac_list_russian_latin = {
     'Рыбы': 'pisces'
     }
 
-
 zodiac_sign_latin = ''
+'''
 
-input()
+zodiac_list = ['aries', 'taurus', 'gemini', 'cancer', 'leo', 'virgo', 'libra', 'scorpio', 'sagittarius', 'capricorn', 'aquarius', 'pisces']
 
-for key in zodiac_list_latin_russian.keys():
-    if input == zodiac_sign_latin.():
-        print('Value found')
-    else:
-        print('Wrong value')
+callback = input()
 
+if callback in zodiac_list:
+    print('Value found')
+else:
+    print('Wrong value')
 
+'''
 print(zodiac_list_latin_russian.get('virgo'))
 
 print(zodiac_list_russian_latin['Стрелец'])
+'''
