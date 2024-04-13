@@ -31,6 +31,15 @@ zodiac_list_russian_latin = {
 
 zodiac_sign_latin = ''
 
-print(zodiac_list_latin_russian['aries'])
+input()
+
+for key in zodiac_list_latin_russian.keys():
+    if input == zodiac_sign_latin.():
+        print('Value found')
+    else:
+        print('Wrong value')
+
+
+print(zodiac_list_latin_russian.get('virgo'))
 
 print(zodiac_list_russian_latin['Стрелец'])
