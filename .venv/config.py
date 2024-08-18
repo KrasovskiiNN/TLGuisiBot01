@@ -11,4 +11,3 @@
 
 # python.exe -m pip install --upgrade pip
 
-Bot_API_Token = '7177290585:AAFGcizDGCz8lEiK0T6koEcGRvoMsoOyCNk'
